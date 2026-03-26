@@ -42,7 +42,6 @@
 🔹 **Student Performance Analysis**
 → Explored factors affecting student outcomes using EDA
 
-*
 ---
 
 ## 📫 Contact
