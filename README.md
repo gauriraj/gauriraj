@@ -6,9 +6,10 @@
 
 ## 👋 About Me
 
-I am an aspiring Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I am passionate about transforming raw data into meaningful insights that support informed decision-making.
-
-With a keen eye for detail and analytical thinking, I enjoy exploring datasets, identifying trends, and presenting data in a clear and impactful way.
+* 🎯 Aspiring Data Analyst passionate about solving real-world problems
+* 📊 Skilled in data analysis, visualization & storytelling
+* 📚 Currently learning Machine Learning
+* 💡 I love finding patterns and insights from data
 
 ---
 
@@ -30,12 +31,18 @@ With a keen eye for detail and analytical thinking, I enjoy exploring datasets, 
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
-* **Hollywood Movies Dashboard (Tableau):** Analyzed movie trends, ratings, and revenue insights
-* **Sales Data Analysis:** Identified key sales patterns and performance metrics
-* **Student Performance Analysis:** Explored factors affecting student outcomes using EDA
+🔹 **Hollywood Movies Dashboard (Tableau)**
+→ Analyzed movie trends, ratings & box office performance
 
+🔹 **Sales Data Analysis**
+→ Identified key sales insights and performance trends
+
+🔹 **Student Performance Analysis**
+→ Explored factors affecting student outcomes using EDA
+
+*
 ---
 
 ## 📫 Contact
@@ -45,6 +52,10 @@ With a keen eye for detail and analytical thinking, I enjoy exploring datasets, 
 
 ---
 
-## 🌱 Career Objective
+## 🌱 Career Goal
 
-Seeking an opportunity as a Data Analyst where I can apply my analytical skills, contribute to business insights, and continue learning in a data-driven environment.
+To secure a Data Analyst role where I can apply my analytical skills, contribute to business insights, and grow in a data-driven environment.
+
+---
+
+✨ *"Without data, you're just another person with an opinion."*
