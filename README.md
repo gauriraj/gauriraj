@@ -1,6 +1,6 @@
 <!-- Rainbow Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=125&section=header&text=Gauri%20Raj&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=135&section=header&text=Gauri%20Raj&fontSize=30&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gauri Raj</h1>
