@@ -1,7 +1,6 @@
 # Gauri Raj
 
 ### Data Analyst | Data Enthusiast
-
 ---
 
 ## 👋 About Me
