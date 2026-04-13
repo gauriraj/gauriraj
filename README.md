@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=135&section=header&text=Gauri%20Raj&fontSize=30&fontColor=ffffff"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Gauri Raj</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Insights;Always+Learning+New+Things" />
 </p>
