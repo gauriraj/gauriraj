@@ -1,35 +1,58 @@
-<!-- Header -->
+<!-- Rainbow Header GIF -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=Gauri%20Raj&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Gauri Raj</h1>
-<h3 align="center">📊 Data Analyst | Turning Data into Actionable Insights</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Data+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Insights;Always+Learning+New+Things" />
+</p>
+
+<h3 align="center">📊 A passionate Data Analyst from India</h3>
 
 ---
 
-## 🌟 About Me
-🎯 Aspiring **Data Analyst** passionate about solving real-world business problems using data  
-📊 Skilled in **data analysis, visualization, and storytelling**  
-🌱 Currently exploring **Machine Learning & advanced analytics**  
-💡 Strong interest in uncovering patterns and delivering **data-driven insights**  
-
-👨‍💻 Portfolio: https://github.com/gauriraj  
-📫 Email: **gauriraj0019@gmail.com**  
-
----
-
-## 💼 Core Competencies
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboard Development  
-- Statistical Analysis & Insight Generation  
+## 🚀 What I Do Best
+🔹 Clean messy datasets into structured intelligence  
+🔹 Perform Exploratory Data Analysis (EDA)  
+🔹 Apply statistical thinking & hypothesis testing  
+🔹 Extract insights using SQL  
+🔹 Build interactive dashboards in Power BI  
+🔹 Translate data into executive-level recommendations  
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** Python, SQL  
-- **Visualization Tools:** Power BI, Tableau  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Excel, Git, MySQL  
+## 🌱 Currently
+- 🔭 Working on **Data Analytics & Dashboard Projects**  
+- 🌱 Learning **Machine Learning & Advanced Analytics**  
+- 🤝 Open to **internships & data-driven opportunities**  
 
 ---
 
-## 🎯 Career Goal
-To secure a **Data Analyst role** where I can leverage data to generate insights, support decision-making, and drive business impact.
+## 💬 Ask Me About
+👉 SQL, Power BI, Python, Data Analysis, Statistics  
+
+---
+
+## 📫 How to Reach Me
+📧 **gauriraj0019@gmail.com**  
+
+---
+
+## 🌐 Connect with Me
+🔗 https://www.linkedin.com/in/gauri-raj-44b57928a/  
+
+---
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,pandas,git,flask,docker,aws" />
+</p>
+
+---
+
+<!-- Footer Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+</p>
